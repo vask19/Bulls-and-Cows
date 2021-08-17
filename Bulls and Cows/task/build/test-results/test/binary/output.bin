@@ -1,0 +1,2833 @@
+[1;31m
+Start test 1[0m
+&Input the length of the secret code:
+> 1
+3Input the number of possible symbols in the code:
+> 10
+Okay, let's start a game!
+"The secret is prepared: * (0-9).
+Turn 1:
+> 0
+Grade: None. 
+Turn 2:
+> 1
+Grade: None. 
+Turn 3:
+> 2
+Grade: None. 
+Turn 4:
+> 3
+Grade: None. 
+Turn 5:
+> 4
+Grade: 1 bulls
+/Congratulations! You guessed the secret code.
+[1;31m
+Start test 2[0m
+&Input the length of the secret code:
+> 4
+3Input the number of possible symbols in the code:
+> 10
+Okay, let's start a game!
+%The secret is prepared: **** (0-9).
+Turn 1:
+> 0000
+Grade: 1 bull(s) and 1 cow(s)
+Turn 2:
+> 1111
+Grade: None. 
+Turn 3:
+> 2222
+Grade: 1 bull(s) and 1 cow(s)
+Turn 4:
+> 3333
+Grade: None. 
+Turn 5:
+> 4444
+Grade: None. 
+Turn 6:
+> 5555
+Grade: 1 bull(s) and 1 cow(s)
+Turn 7:
+> 6666
+Grade: None. 
+Turn 8:
+> 7777
+Grade: 1 bull(s) and 1 cow(s)
+Turn 9:
+> 0257
+Grade: 4 bulls
+/Congratulations! You guessed the secret code.
+[1;31m
+Start test 3[0m
+&Input the length of the secret code:
+> 6
+3Input the number of possible symbols in the code:
+> 10
+Okay, let's start a game!
+'The secret is prepared: ****** (0-9).
+Turn 1:
+	> 000000
+Grade: 1 bull(s) and 1 cow(s)
+Turn 2:
+	> 111111
+Grade: 1 bull(s) and 1 cow(s)
+Turn 3:
+	> 222222
+Grade: None. 
+Turn 4:
+	> 333333
+Grade: 1 bull(s) and 1 cow(s)
+Turn 5:
+	> 444444
+Grade: None. 
+Turn 6:
+	> 555555
+Grade: 1 bull(s) and 1 cow(s)
+Turn 7:
+	> 666666
+Grade: 1 bull(s) and 1 cow(s)
+Turn 8:
+	> 777777
+Grade: None. 
+Turn 9:
+	> 888888
+Grade: 1 bull(s) and 1 cow(s)
+	Turn 10:
+	> 013568
+Grade: 1 cow(s).
+	Turn 11:
+	> 103568
+Grade: None. 
+	Turn 12:
+	> 301568
+Grade: None. 
+	Turn 13:
+	> 031568
+Grade: 1 cow(s).
+	Turn 14:
+	> 130568
+Grade: None. 
+	Turn 15:
+	> 310568
+Grade: None. 
+	Turn 16:
+	> 510368
+Grade: 1 cow(s).
+	Turn 17:
+	> 150368
+Grade: 1 cow(s).
+	Turn 18:
+	> 051368
+Grade: 2 cow(s).
+	Turn 19:
+	> 501368
+Grade: 1 cow(s).
+	Turn 20:
+	> 105368
+Grade: 1 cow(s).
+	Turn 21:
+	> 015368
+Grade: 2 cow(s).
+	Turn 22:
+	> 035168
+Grade: 1 cow(s).
+	Turn 23:
+	> 305168
+Grade: None. 
+	Turn 24:
+	> 503168
+Grade: None. 
+	Turn 25:
+	> 053168
+Grade: 1 cow(s).
+	Turn 26:
+	> 350168
+Grade: None. 
+	Turn 27:
+	> 530168
+Grade: None. 
+	Turn 28:
+	> 531068
+Grade: None. 
+	Turn 29:
+	> 351068
+Grade: None. 
+	Turn 30:
+	> 153068
+Grade: None. 
+	Turn 31:
+	> 513068
+Grade: None. 
+	Turn 32:
+	> 315068
+Grade: None. 
+	Turn 33:
+	> 135068
+Grade: None. 
+	Turn 34:
+	> 635018
+Grade: 1 cow(s).
+	Turn 35:
+	> 365018
+Grade: 2 cow(s).
+	Turn 36:
+	> 563018
+Grade: 2 cow(s).
+	Turn 37:
+	> 653018
+Grade: 1 cow(s).
+	Turn 38:
+	> 356018
+Grade: 1 cow(s).
+	Turn 39:
+	> 536018
+Grade: 1 cow(s).
+	Turn 40:
+	> 036518
+Grade: 2 cow(s).
+	Turn 41:
+	> 306518
+Grade: 1 cow(s).
+	Turn 42:
+	> 603518
+Grade: 1 cow(s).
+	Turn 43:
+	> 063518
+Grade: 3 cow(s).
+	Turn 44:
+	> 360518
+Grade: 2 cow(s).
+	Turn 45:
+	> 630518
+Grade: 1 cow(s).
+	Turn 46:
+	> 650318
+Grade: 2 cow(s).
+	Turn 47:
+	> 560318
+Grade: 3 cow(s).
+	Turn 48:
+	> 065318
+Grade: 4 cow(s).
+	Turn 49:
+	> 605318
+Grade: 2 cow(s).
+	Turn 50:
+	> 506318
+Grade: 2 cow(s).
+	Turn 51:
+	> 056318
+Grade: 3 cow(s).
+	Turn 52:
+	> 053618
+Grade: 2 cow(s).
+	Turn 53:
+	> 503618
+Grade: 1 cow(s).
+	Turn 54:
+	> 305618
+Grade: 1 cow(s).
+	Turn 55:
+	> 035618
+Grade: 2 cow(s).
+	Turn 56:
+	> 530618
+Grade: 1 cow(s).
+	Turn 57:
+	> 350618
+Grade: 1 cow(s).
+	Turn 58:
+	> 150638
+Grade: None. 
+	Turn 59:
+	> 510638
+Grade: None. 
+	Turn 60:
+	> 015638
+Grade: 1 cow(s).
+	Turn 61:
+	> 105638
+Grade: None. 
+	Turn 62:
+	> 501638
+Grade: None. 
+	Turn 63:
+	> 051638
+Grade: 1 cow(s).
+	Turn 64:
+	> 651038
+Grade: None. 
+	Turn 65:
+	> 561038
+Grade: 1 cow(s).
+	Turn 66:
+	> 165038
+Grade: 1 cow(s).
+	Turn 67:
+	> 615038
+Grade: None. 
+	Turn 68:
+	> 516038
+Grade: None. 
+	Turn 69:
+	> 156038
+Grade: None. 
+	Turn 70:
+	> 106538
+Grade: None. 
+	Turn 71:
+	> 016538
+Grade: 1 cow(s).
+	Turn 72:
+	> 610538
+Grade: None. 
+	Turn 73:
+	> 160538
+Grade: 1 cow(s).
+	Turn 74:
+	> 061538
+Grade: 2 cow(s).
+	Turn 75:
+	> 601538
+Grade: None. 
+	Turn 76:
+	> 605138
+Grade: None. 
+	Turn 77:
+	> 065138
+Grade: 2 cow(s).
+	Turn 78:
+	> 560138
+Grade: 1 cow(s).
+	Turn 79:
+	> 650138
+Grade: None. 
+	Turn 80:
+	> 056138
+Grade: 1 cow(s).
+	Turn 81:
+	> 506138
+Grade: None. 
+	Turn 82:
+	> 306158
+Grade: None. 
+	Turn 83:
+	> 036158
+Grade: 1 cow(s).
+	Turn 84:
+	> 630158
+Grade: None. 
+	Turn 85:
+	> 360158
+Grade: 1 cow(s).
+	Turn 86:
+	> 063158
+Grade: 2 cow(s).
+	Turn 87:
+	> 603158
+Grade: None. 
+	Turn 88:
+	> 103658
+Grade: None. 
+	Turn 89:
+	> 013658
+Grade: 1 cow(s).
+	Turn 90:
+	> 310658
+Grade: None. 
+	Turn 91:
+	> 130658
+Grade: None. 
+	Turn 92:
+	> 031658
+Grade: 1 cow(s).
+	Turn 93:
+	> 301658
+Grade: None. 
+	Turn 94:
+	> 361058
+Grade: 1 cow(s).
+	Turn 95:
+	> 631058
+Grade: None. 
+	Turn 96:
+	> 136058
+Grade: None. 
+	Turn 97:
+	> 316058
+Grade: None. 
+	Turn 98:
+	> 613058
+Grade: None. 
+	Turn 99:
+	> 163058
+Grade: 1 cow(s).
+
+Turn 100:
+	> 160358
+Grade: 2 cow(s).
+
+Turn 101:
+	> 610358
+Grade: 1 cow(s).
+
+Turn 102:
+	> 016358
+Grade: 2 cow(s).
+
+Turn 103:
+	> 106358
+Grade: 1 cow(s).
+
+Turn 104:
+	> 601358
+Grade: 1 cow(s).
+
+Turn 105:
+	> 061358
+Grade: 3 cow(s).
+
+Turn 106:
+	> 561308
+Grade: 2 cow(s).
+
+Turn 107:
+	> 651308
+Grade: 1 cow(s).
+
+Turn 108:
+	> 156308
+Grade: 1 cow(s).
+
+Turn 109:
+	> 516308
+Grade: 1 cow(s).
+
+Turn 110:
+	> 615308
+Grade: 1 cow(s).
+
+Turn 111:
+	> 165308
+Grade: 2 cow(s).
+
+Turn 112:
+	> 365108
+Grade: 1 cow(s).
+
+Turn 113:
+	> 635108
+Grade: None. 
+
+Turn 114:
+	> 536108
+Grade: None. 
+
+Turn 115:
+	> 356108
+Grade: None. 
+
+Turn 116:
+	> 653108
+Grade: None. 
+
+Turn 117:
+	> 563108
+Grade: 1 cow(s).
+
+Turn 118:
+	> 513608
+Grade: None. 
+
+Turn 119:
+	> 153608
+Grade: None. 
+
+Turn 120:
+	> 351608
+Grade: None. 
+
+Turn 121:
+	> 531608
+Grade: None. 
+
+Turn 122:
+	> 135608
+Grade: None. 
+
+Turn 123:
+	> 315608
+Grade: None. 
+
+Turn 124:
+	> 316508
+Grade: None. 
+
+Turn 125:
+	> 136508
+Grade: None. 
+
+Turn 126:
+	> 631508
+Grade: None. 
+
+Turn 127:
+	> 361508
+Grade: 1 cow(s).
+
+Turn 128:
+	> 163508
+Grade: 1 cow(s).
+
+Turn 129:
+	> 613508
+Grade: None. 
+
+Turn 130:
+	> 813506
+Grade: None. 
+
+Turn 131:
+	> 183506
+Grade: None. 
+
+Turn 132:
+	> 381506
+Grade: None. 
+
+Turn 133:
+	> 831506
+Grade: None. 
+
+Turn 134:
+	> 138506
+Grade: 1 cow(s).
+
+Turn 135:
+	> 318506
+Grade: 1 cow(s).
+
+Turn 136:
+	> 518306
+Grade: 2 cow(s).
+
+Turn 137:
+	> 158306
+Grade: 2 cow(s).
+
+Turn 138:
+	> 851306
+Grade: 1 cow(s).
+
+Turn 139:
+	> 581306
+Grade: 1 cow(s).
+
+Turn 140:
+	> 185306
+Grade: 1 cow(s).
+
+Turn 141:
+	> 815306
+Grade: 1 cow(s).
+
+Turn 142:
+	> 835106
+Grade: None. 
+
+Turn 143:
+	> 385106
+Grade: None. 
+
+Turn 144:
+	> 583106
+Grade: None. 
+
+Turn 145:
+	> 853106
+Grade: None. 
+
+Turn 146:
+	> 358106
+Grade: 1 cow(s).
+
+Turn 147:
+	> 538106
+Grade: 1 cow(s).
+
+Turn 148:
+	> 531806
+Grade: None. 
+
+Turn 149:
+	> 351806
+Grade: None. 
+
+Turn 150:
+	> 153806
+Grade: None. 
+
+Turn 151:
+	> 513806
+Grade: None. 
+
+Turn 152:
+	> 315806
+Grade: None. 
+
+Turn 153:
+	> 135806
+Grade: None. 
+
+Turn 154:
+	> 035816
+Grade: 2 cow(s).
+
+Turn 155:
+	> 305816
+Grade: 1 cow(s).
+
+Turn 156:
+	> 503816
+Grade: 1 cow(s).
+
+Turn 157:
+	> 053816
+Grade: 2 cow(s).
+
+Turn 158:
+	> 350816
+Grade: 1 cow(s).
+
+Turn 159:
+	> 530816
+Grade: 1 cow(s).
+
+Turn 160:
+	> 830516
+Grade: 1 cow(s).
+
+Turn 161:
+	> 380516
+Grade: 1 cow(s).
+
+Turn 162:
+	> 083516
+Grade: 2 cow(s).
+
+Turn 163:
+	> 803516
+Grade: 1 cow(s).
+
+Turn 164:
+	> 308516
+Grade: 2 cow(s).
+
+Turn 165:
+	> 038516
+Grade: 3 cow(s).
+
+Turn 166:
+	> 058316
+Grade: 4 cow(s).
+
+Turn 167:
+	> 508316
+Grade: 3 cow(s).
+
+Turn 168:
+	> 805316
+Grade: 2 cow(s).
+
+Turn 169:
+	> 085316
+Grade: 3 cow(s).
+
+Turn 170:
+	> 580316
+Grade: 2 cow(s).
+
+Turn 171:
+	> 850316
+Grade: 2 cow(s).
+
+Turn 172:
+	> 853016
+Grade: 1 cow(s).
+
+Turn 173:
+	> 583016
+Grade: 1 cow(s).
+
+Turn 174:
+	> 385016
+Grade: 1 cow(s).
+
+Turn 175:
+	> 835016
+Grade: 1 cow(s).
+
+Turn 176:
+	> 538016
+Grade: 2 cow(s).
+
+Turn 177:
+	> 358016
+Grade: 2 cow(s).
+
+Turn 178:
+	> 158036
+Grade: 1 cow(s).
+
+Turn 179:
+	> 518036
+Grade: 1 cow(s).
+
+Turn 180:
+	> 815036
+Grade: None. 
+
+Turn 181:
+	> 185036
+Grade: None. 
+
+Turn 182:
+	> 581036
+Grade: None. 
+
+Turn 183:
+	> 851036
+Grade: None. 
+
+Turn 184:
+	> 051836
+Grade: 1 cow(s).
+
+Turn 185:
+	> 501836
+Grade: None. 
+
+Turn 186:
+	> 105836
+Grade: None. 
+
+Turn 187:
+	> 015836
+Grade: 1 cow(s).
+
+Turn 188:
+	> 510836
+Grade: None. 
+
+Turn 189:
+	> 150836
+Grade: None. 
+
+Turn 190:
+	> 180536
+Grade: None. 
+
+Turn 191:
+	> 810536
+Grade: None. 
+
+Turn 192:
+	> 018536
+Grade: 2 cow(s).
+
+Turn 193:
+	> 108536
+Grade: 1 cow(s).
+
+Turn 194:
+	> 801536
+Grade: None. 
+
+Turn 195:
+	> 081536
+Grade: 1 cow(s).
+
+Turn 196:
+	> 085136
+Grade: 1 cow(s).
+
+Turn 197:
+	> 805136
+Grade: None. 
+
+Turn 198:
+	> 508136
+Grade: 1 cow(s).
+
+Turn 199:
+	> 058136
+Grade: 2 cow(s).
+
+Turn 200:
+	> 850136
+Grade: None. 
+
+Turn 201:
+	> 580136
+Grade: None. 
+
+Turn 202:
+	> 380156
+Grade: None. 
+
+Turn 203:
+	> 830156
+Grade: None. 
+
+Turn 204:
+	> 038156
+Grade: 2 cow(s).
+
+Turn 205:
+	> 308156
+Grade: 1 cow(s).
+
+Turn 206:
+	> 803156
+Grade: None. 
+
+Turn 207:
+	> 083156
+Grade: 1 cow(s).
+
+Turn 208:
+	> 183056
+Grade: None. 
+
+Turn 209:
+	> 813056
+Grade: None. 
+
+Turn 210:
+	> 318056
+Grade: 1 cow(s).
+
+Turn 211:
+	> 138056
+Grade: 1 cow(s).
+
+Turn 212:
+	> 831056
+Grade: None. 
+
+Turn 213:
+	> 381056
+Grade: None. 
+
+Turn 214:
+	> 301856
+Grade: None. 
+
+Turn 215:
+	> 031856
+Grade: 1 cow(s).
+
+Turn 216:
+	> 130856
+Grade: None. 
+
+Turn 217:
+	> 310856
+Grade: None. 
+
+Turn 218:
+	> 013856
+Grade: 1 cow(s).
+
+Turn 219:
+	> 103856
+Grade: None. 
+
+Turn 220:
+	> 108356
+Grade: 2 cow(s).
+
+Turn 221:
+	> 018356
+Grade: 3 cow(s).
+
+Turn 222:
+	> 810356
+Grade: 1 cow(s).
+
+Turn 223:
+	> 180356
+Grade: 1 cow(s).
+
+Turn 224:
+	> 081356
+Grade: 2 cow(s).
+
+Turn 225:
+	> 801356
+Grade: 1 cow(s).
+
+Turn 226:
+	> 501386
+Grade: 1 cow(s).
+
+Turn 227:
+	> 051386
+Grade: 2 cow(s).
+
+Turn 228:
+	> 150386
+Grade: 1 cow(s).
+
+Turn 229:
+	> 510386
+Grade: 1 cow(s).
+
+Turn 230:
+	> 015386
+Grade: 2 cow(s).
+
+Turn 231:
+	> 105386
+Grade: 1 cow(s).
+
+Turn 232:
+	> 305186
+Grade: None. 
+
+Turn 233:
+	> 035186
+Grade: 1 cow(s).
+
+Turn 234:
+	> 530186
+Grade: None. 
+
+Turn 235:
+	> 350186
+Grade: None. 
+
+Turn 236:
+	> 053186
+Grade: 1 cow(s).
+
+Turn 237:
+	> 503186
+Grade: None. 
+
+Turn 238:
+	> 513086
+Grade: None. 
+
+Turn 239:
+	> 153086
+Grade: None. 
+
+Turn 240:
+	> 351086
+Grade: None. 
+
+Turn 241:
+	> 531086
+Grade: None. 
+
+Turn 242:
+	> 135086
+Grade: None. 
+
+Turn 243:
+	> 315086
+Grade: None. 
+
+Turn 244:
+	> 310586
+Grade: None. 
+
+Turn 245:
+	> 130586
+Grade: None. 
+
+Turn 246:
+	> 031586
+Grade: 1 cow(s).
+
+Turn 247:
+	> 301586
+Grade: None. 
+
+Turn 248:
+	> 103586
+Grade: None. 
+
+Turn 249:
+	> 013586
+Grade: 1 cow(s).
+
+Turn 250:
+	> 063581
+Grade: 2 cow(s).
+
+Turn 251:
+	> 603581
+Grade: None. 
+
+Turn 252:
+	> 306581
+Grade: None. 
+
+Turn 253:
+	> 036581
+Grade: 1 cow(s).
+
+Turn 254:
+	> 630581
+Grade: None. 
+
+Turn 255:
+	> 360581
+Grade: 1 cow(s).
+
+Turn 256:
+	> 560381
+Grade: 2 cow(s).
+
+Turn 257:
+	> 650381
+Grade: 1 cow(s).
+
+Turn 258:
+	> 056381
+Grade: 2 cow(s).
+
+Turn 259:
+	> 506381
+Grade: 1 cow(s).
+
+Turn 260:
+	> 605381
+Grade: 1 cow(s).
+
+Turn 261:
+	> 065381
+Grade: 3 cow(s).
+
+Turn 262:
+	> 035681
+Grade: 1 cow(s).
+
+Turn 263:
+	> 305681
+Grade: None. 
+
+Turn 264:
+	> 503681
+Grade: None. 
+
+Turn 265:
+	> 053681
+Grade: 1 cow(s).
+
+Turn 266:
+	> 350681
+Grade: None. 
+
+Turn 267:
+	> 530681
+Grade: None. 
+
+Turn 268:
+	> 536081
+Grade: None. 
+
+Turn 269:
+	> 356081
+Grade: None. 
+
+Turn 270:
+	> 653081
+Grade: None. 
+
+Turn 271:
+	> 563081
+Grade: 1 cow(s).
+
+Turn 272:
+	> 365081
+Grade: 1 cow(s).
+
+Turn 273:
+	> 635081
+Grade: None. 
+
+Turn 274:
+	> 835061
+Grade: None. 
+
+Turn 275:
+	> 385061
+Grade: None. 
+
+Turn 276:
+	> 583061
+Grade: None. 
+
+Turn 277:
+	> 853061
+Grade: None. 
+
+Turn 278:
+	> 358061
+Grade: 1 cow(s).
+
+Turn 279:
+	> 538061
+Grade: 1 cow(s).
+
+Turn 280:
+	> 038561
+Grade: 2 cow(s).
+
+Turn 281:
+	> 308561
+Grade: 1 cow(s).
+
+Turn 282:
+	> 803561
+Grade: None. 
+
+Turn 283:
+	> 083561
+Grade: 1 cow(s).
+
+Turn 284:
+	> 380561
+Grade: None. 
+
+Turn 285:
+	> 830561
+Grade: None. 
+
+Turn 286:
+	> 850361
+Grade: 1 cow(s).
+
+Turn 287:
+	> 580361
+Grade: 1 cow(s).
+
+Turn 288:
+	> 085361
+Grade: 2 cow(s).
+
+Turn 289:
+	> 805361
+Grade: 1 cow(s).
+
+Turn 290:
+	> 508361
+Grade: 2 cow(s).
+
+Turn 291:
+	> 058361
+Grade: 3 cow(s).
+
+Turn 292:
+	> 053861
+Grade: 1 cow(s).
+
+Turn 293:
+	> 503861
+Grade: None. 
+
+Turn 294:
+	> 305861
+Grade: None. 
+
+Turn 295:
+	> 035861
+Grade: 1 cow(s).
+
+Turn 296:
+	> 530861
+Grade: None. 
+
+Turn 297:
+	> 350861
+Grade: None. 
+
+Turn 298:
+	> 650831
+Grade: None. 
+
+Turn 299:
+	> 560831
+Grade: 1 cow(s).
+
+Turn 300:
+	> 065831
+Grade: 2 cow(s).
+
+Turn 301:
+	> 605831
+Grade: None. 
+
+Turn 302:
+	> 506831
+Grade: None. 
+
+Turn 303:
+	> 056831
+Grade: 1 cow(s).
+
+Turn 304:
+	> 856031
+Grade: None. 
+
+Turn 305:
+	> 586031
+Grade: None. 
+
+Turn 306:
+	> 685031
+Grade: None. 
+
+Turn 307:
+	> 865031
+Grade: 1 cow(s).
+
+Turn 308:
+	> 568031
+Grade: 2 cow(s).
+
+Turn 309:
+	> 658031
+Grade: 1 cow(s).
+
+Turn 310:
+	> 608531
+Grade: 1 cow(s).
+
+Turn 311:
+	> 068531
+Grade: 3 cow(s).
+
+Turn 312:
+	> 860531
+Grade: 1 cow(s).
+
+Turn 313:
+	> 680531
+Grade: None. 
+
+Turn 314:
+	> 086531
+Grade: 1 cow(s).
+
+Turn 315:
+	> 806531
+Grade: None. 
+
+Turn 316:
+	> 805631
+Grade: None. 
+
+Turn 317:
+	> 085631
+Grade: 1 cow(s).
+
+Turn 318:
+	> 580631
+Grade: None. 
+
+Turn 319:
+	> 850631
+Grade: None. 
+
+Turn 320:
+	> 058631
+Grade: 2 cow(s).
+
+Turn 321:
+	> 508631
+Grade: 1 cow(s).
+
+Turn 322:
+	> 308651
+Grade: 1 cow(s).
+
+Turn 323:
+	> 038651
+Grade: 2 cow(s).
+
+Turn 324:
+	> 830651
+Grade: None. 
+
+Turn 325:
+	> 380651
+Grade: None. 
+
+Turn 326:
+	> 083651
+Grade: 1 cow(s).
+
+Turn 327:
+	> 803651
+Grade: None. 
+
+Turn 328:
+	> 603851
+Grade: None. 
+
+Turn 329:
+	> 063851
+Grade: 2 cow(s).
+
+Turn 330:
+	> 360851
+Grade: 1 cow(s).
+
+Turn 331:
+	> 630851
+Grade: None. 
+
+Turn 332:
+	> 036851
+Grade: 1 cow(s).
+
+Turn 333:
+	> 306851
+Grade: None. 
+
+Turn 334:
+	> 386051
+Grade: None. 
+
+Turn 335:
+	> 836051
+Grade: None. 
+
+Turn 336:
+	> 638051
+Grade: 1 cow(s).
+
+Turn 337:
+	> 368051
+Grade: 2 cow(s).
+
+Turn 338:
+	> 863051
+Grade: 1 cow(s).
+
+Turn 339:
+	> 683051
+Grade: None. 
+
+Turn 340:
+	> 680351
+Grade: 1 cow(s).
+
+Turn 341:
+	> 860351
+Grade: 2 cow(s).
+
+Turn 342:
+	> 068351
+Grade: 4 cow(s).
+
+Turn 343:
+	> 608351
+Grade: 2 cow(s).
+
+Turn 344:
+	> 806351
+Grade: 1 cow(s).
+
+Turn 345:
+	> 086351
+Grade: 2 cow(s).
+
+Turn 346:
+	> 586301
+Grade: 1 cow(s).
+
+Turn 347:
+	> 856301
+Grade: 1 cow(s).
+
+Turn 348:
+	> 658301
+Grade: 2 cow(s).
+
+Turn 349:
+	> 568301
+Grade: 3 cow(s).
+
+Turn 350:
+	> 865301
+Grade: 2 cow(s).
+
+Turn 351:
+	> 685301
+Grade: 1 cow(s).
+
+Turn 352:
+	> 385601
+Grade: None. 
+
+Turn 353:
+	> 835601
+Grade: None. 
+
+Turn 354:
+	> 538601
+Grade: 1 cow(s).
+
+Turn 355:
+	> 358601
+Grade: 1 cow(s).
+
+Turn 356:
+	> 853601
+Grade: None. 
+
+Turn 357:
+	> 583601
+Grade: None. 
+
+Turn 358:
+	> 563801
+Grade: 1 cow(s).
+
+Turn 359:
+	> 653801
+Grade: None. 
+
+Turn 360:
+	> 356801
+Grade: None. 
+
+Turn 361:
+	> 536801
+Grade: None. 
+
+Turn 362:
+	> 635801
+Grade: None. 
+
+Turn 363:
+	> 365801
+Grade: 1 cow(s).
+
+Turn 364:
+	> 368501
+Grade: 2 cow(s).
+
+Turn 365:
+	> 638501
+Grade: 1 cow(s).
+
+Turn 366:
+	> 836501
+Grade: None. 
+
+Turn 367:
+	> 386501
+Grade: None. 
+
+Turn 368:
+	> 683501
+Grade: None. 
+
+Turn 369:
+	> 863501
+Grade: 1 cow(s).
+
+Turn 370:
+	> 861503
+Grade: 1 cow(s).
+
+Turn 371:
+	> 681503
+Grade: None. 
+
+Turn 372:
+	> 186503
+Grade: None. 
+
+Turn 373:
+	> 816503
+Grade: None. 
+
+Turn 374:
+	> 618503
+Grade: 1 cow(s).
+
+Turn 375:
+	> 168503
+Grade: 2 cow(s).
+
+Turn 376:
+	> 568103
+Grade: 2 cow(s).
+
+Turn 377:
+	> 658103
+Grade: 1 cow(s).
+
+Turn 378:
+	> 856103
+Grade: None. 
+
+Turn 379:
+	> 586103
+Grade: None. 
+
+Turn 380:
+	> 685103
+Grade: None. 
+
+Turn 381:
+	> 865103
+Grade: 1 cow(s).
+
+Turn 382:
+	> 815603
+Grade: None. 
+
+Turn 383:
+	> 185603
+Grade: None. 
+
+Turn 384:
+	> 581603
+Grade: None. 
+
+Turn 385:
+	> 851603
+Grade: None. 
+
+Turn 386:
+	> 158603
+Grade: 1 cow(s).
+
+Turn 387:
+	> 518603
+Grade: 1 cow(s).
+
+Turn 388:
+	> 516803
+Grade: None. 
+
+Turn 389:
+	> 156803
+Grade: None. 
+
+Turn 390:
+	> 651803
+Grade: None. 
+
+Turn 391:
+	> 561803
+Grade: 1 cow(s).
+
+Turn 392:
+	> 165803
+Grade: 1 cow(s).
+
+Turn 393:
+	> 615803
+Grade: None. 
+
+Turn 394:
+	> 015863
+Grade: 1 cow(s).
+
+Turn 395:
+	> 105863
+Grade: None. 
+
+Turn 396:
+	> 501863
+Grade: None. 
+
+Turn 397:
+	> 051863
+Grade: 1 cow(s).
+
+Turn 398:
+	> 150863
+Grade: None. 
+
+Turn 399:
+	> 510863
+Grade: None. 
+
+Turn 400:
+	> 810563
+Grade: None. 
+
+Turn 401:
+	> 180563
+Grade: None. 
+
+Turn 402:
+	> 081563
+Grade: 1 cow(s).
+
+Turn 403:
+	> 801563
+Grade: None. 
+
+Turn 404:
+	> 108563
+Grade: 1 cow(s).
+
+Turn 405:
+	> 018563
+Grade: 2 cow(s).
+
+Turn 406:
+	> 058163
+Grade: 2 cow(s).
+
+Turn 407:
+	> 508163
+Grade: 1 cow(s).
+
+Turn 408:
+	> 805163
+Grade: None. 
+
+Turn 409:
+	> 085163
+Grade: 1 cow(s).
+
+Turn 410:
+	> 580163
+Grade: None. 
+
+Turn 411:
+	> 850163
+Grade: None. 
+
+Turn 412:
+	> 851063
+Grade: None. 
+
+Turn 413:
+	> 581063
+Grade: None. 
+
+Turn 414:
+	> 185063
+Grade: None. 
+
+Turn 415:
+	> 815063
+Grade: None. 
+
+Turn 416:
+	> 518063
+Grade: 1 cow(s).
+
+Turn 417:
+	> 158063
+Grade: 1 cow(s).
+
+Turn 418:
+	> 658013
+Grade: 2 cow(s).
+
+Turn 419:
+	> 568013
+Grade: 3 cow(s).
+
+Turn 420:
+	> 865013
+Grade: 2 cow(s).
+
+Turn 421:
+	> 685013
+Grade: 1 cow(s).
+
+Turn 422:
+	> 586013
+Grade: 1 cow(s).
+
+Turn 423:
+	> 856013
+Grade: 1 cow(s).
+
+Turn 424:
+	> 056813
+Grade: 2 cow(s).
+
+Turn 425:
+	> 506813
+Grade: 1 cow(s).
+
+Turn 426:
+	> 605813
+Grade: 1 cow(s).
+
+Turn 427:
+	> 065813
+Grade: 3 cow(s).
+
+Turn 428:
+	> 560813
+Grade: 2 cow(s).
+
+Turn 429:
+	> 650813
+Grade: 1 cow(s).
+
+Turn 430:
+	> 680513
+Grade: 1 cow(s).
+
+Turn 431:
+	> 860513
+Grade: 2 cow(s).
+
+Turn 432:
+	> 068513
+Grade: 4 cow(s).
+
+Turn 433:
+	> 608513
+Grade: 2 cow(s).
+
+Turn 434:
+	> 806513
+Grade: 1 cow(s).
+
+Turn 435:
+	> 086513
+Grade: 2 cow(s).
+
+Turn 436:
+	> 085613
+Grade: 2 cow(s).
+
+Turn 437:
+	> 805613
+Grade: 1 cow(s).
+
+Turn 438:
+	> 508613
+Grade: 2 cow(s).
+
+Turn 439:
+	> 058613
+Grade: 3 cow(s).
+
+Turn 440:
+	> 850613
+Grade: 1 cow(s).
+
+Turn 441:
+	> 580613
+Grade: 1 cow(s).
+
+Turn 442:
+	> 180653
+Grade: None. 
+
+Turn 443:
+	> 810653
+Grade: None. 
+
+Turn 444:
+	> 018653
+Grade: 2 cow(s).
+
+Turn 445:
+	> 108653
+Grade: 1 cow(s).
+
+Turn 446:
+	> 801653
+Grade: None. 
+
+Turn 447:
+	> 081653
+Grade: 1 cow(s).
+
+Turn 448:
+	> 681053
+Grade: None. 
+
+Turn 449:
+	> 861053
+Grade: 1 cow(s).
+
+Turn 450:
+	> 168053
+Grade: 2 cow(s).
+
+Turn 451:
+	> 618053
+Grade: 1 cow(s).
+
+Turn 452:
+	> 816053
+Grade: None. 
+
+Turn 453:
+	> 186053
+Grade: None. 
+
+Turn 454:
+	> 106853
+Grade: None. 
+
+Turn 455:
+	> 016853
+Grade: 1 cow(s).
+
+Turn 456:
+	> 610853
+Grade: None. 
+
+Turn 457:
+	> 160853
+Grade: 1 cow(s).
+
+Turn 458:
+	> 061853
+Grade: 2 cow(s).
+
+Turn 459:
+	> 601853
+Grade: None. 
+
+Turn 460:
+	> 608153
+Grade: 1 cow(s).
+
+Turn 461:
+	> 068153
+Grade: 3 cow(s).
+
+Turn 462:
+	> 860153
+Grade: 1 cow(s).
+
+Turn 463:
+	> 680153
+Grade: None. 
+
+Turn 464:
+	> 086153
+Grade: 1 cow(s).
+
+Turn 465:
+	> 806153
+Grade: None. 
+
+Turn 466:
+	> 506183
+Grade: None. 
+
+Turn 467:
+	> 056183
+Grade: 1 cow(s).
+
+Turn 468:
+	> 650183
+Grade: None. 
+
+Turn 469:
+	> 560183
+Grade: 1 cow(s).
+
+Turn 470:
+	> 065183
+Grade: 2 cow(s).
+
+Turn 471:
+	> 605183
+Grade: None. 
+
+Turn 472:
+	> 105683
+Grade: None. 
+
+Turn 473:
+	> 015683
+Grade: 1 cow(s).
+
+Turn 474:
+	> 510683
+Grade: None. 
+
+Turn 475:
+	> 150683
+Grade: None. 
+
+Turn 476:
+	> 051683
+Grade: 1 cow(s).
+
+Turn 477:
+	> 501683
+Grade: None. 
+
+Turn 478:
+	> 561083
+Grade: 1 cow(s).
+
+Turn 479:
+	> 651083
+Grade: None. 
+
+Turn 480:
+	> 156083
+Grade: None. 
+
+Turn 481:
+	> 516083
+Grade: None. 
+
+Turn 482:
+	> 615083
+Grade: None. 
+
+Turn 483:
+	> 165083
+Grade: 1 cow(s).
+
+Turn 484:
+	> 160583
+Grade: 1 cow(s).
+
+Turn 485:
+	> 610583
+Grade: None. 
+
+Turn 486:
+	> 016583
+Grade: 1 cow(s).
+
+Turn 487:
+	> 106583
+Grade: None. 
+
+Turn 488:
+	> 601583
+Grade: None. 
+
+Turn 489:
+	> 061583
+Grade: 2 cow(s).
+
+Turn 490:
+	> 061385
+Grade: 4 cow(s).
+
+Turn 491:
+	> 601385
+Grade: 2 cow(s).
+
+Turn 492:
+	> 106385
+Grade: 2 cow(s).
+
+Turn 493:
+	> 016385
+Grade: 3 cow(s).
+
+Turn 494:
+	> 610385
+Grade: 2 cow(s).
+
+Turn 495:
+	> 160385
+Grade: 3 cow(s).
+
+Turn 496:
+	> 360185
+Grade: 2 cow(s).
+
+Turn 497:
+	> 630185
+Grade: 1 cow(s).
+
+Turn 498:
+	> 036185
+Grade: 2 cow(s).
+
+Turn 499:
+	> 306185
+Grade: 1 cow(s).
+
+Turn 500:
+	> 603185
+Grade: 1 cow(s).
+
+Turn 501:
+	> 063185
+Grade: 3 cow(s).
+
+Turn 502:
+	> 013685
+Grade: 2 cow(s).
+
+Turn 503:
+	> 103685
+Grade: 1 cow(s).
+
+Turn 504:
+	> 301685
+Grade: 1 cow(s).
+
+Turn 505:
+	> 031685
+Grade: 2 cow(s).
+
+Turn 506:
+	> 130685
+Grade: 1 cow(s).
+
+Turn 507:
+	> 310685
+Grade: 1 cow(s).
+
+Turn 508:
+	> 316085
+Grade: 1 cow(s).
+
+Turn 509:
+	> 136085
+Grade: 1 cow(s).
+
+Turn 510:
+	> 631085
+Grade: 1 cow(s).
+
+Turn 511:
+	> 361085
+Grade: 2 cow(s).
+
+Turn 512:
+	> 163085
+Grade: 2 cow(s).
+
+Turn 513:
+	> 613085
+Grade: 1 cow(s).
+
+Turn 514:
+	> 813065
+Grade: 1 cow(s).
+
+Turn 515:
+	> 183065
+Grade: 1 cow(s).
+
+Turn 516:
+	> 381065
+Grade: 1 cow(s).
+
+Turn 517:
+	> 831065
+Grade: 1 cow(s).
+
+Turn 518:
+	> 138065
+Grade: 2 cow(s).
+
+Turn 519:
+	> 318065
+Grade: 2 cow(s).
+
+Turn 520:
+	> 018365
+Grade: 4 cow(s).
+
+Turn 521:
+	> 108365
+Grade: 3 cow(s).
+
+Turn 522:
+	> 801365
+Grade: 2 cow(s).
+
+Turn 523:
+	> 081365
+Grade: 3 cow(s).
+
+Turn 524:
+	> 180365
+Grade: 2 cow(s).
+
+Turn 525:
+	> 810365
+Grade: 2 cow(s).
+
+Turn 526:
+	> 830165
+Grade: 1 cow(s).
+
+Turn 527:
+	> 380165
+Grade: 1 cow(s).
+
+Turn 528:
+	> 083165
+Grade: 2 cow(s).
+
+Turn 529:
+	> 803165
+Grade: 1 cow(s).
+
+Turn 530:
+	> 308165
+Grade: 2 cow(s).
+
+Turn 531:
+	> 038165
+Grade: 3 cow(s).
+
+Turn 532:
+	> 031865
+Grade: 2 cow(s).
+
+Turn 533:
+	> 301865
+Grade: 1 cow(s).
+
+Turn 534:
+	> 103865
+Grade: 1 cow(s).
+
+Turn 535:
+	> 013865
+Grade: 2 cow(s).
+
+Turn 536:
+	> 310865
+Grade: 1 cow(s).
+
+Turn 537:
+	> 130865
+Grade: 1 cow(s).
+
+Turn 538:
+	> 630815
+Grade: 2 cow(s).
+
+Turn 539:
+	> 360815
+Grade: 3 cow(s).
+
+Turn 540:
+	> 063815
+Grade: 4 cow(s).
+
+Turn 541:
+	> 603815
+Grade: 2 cow(s).
+
+Turn 542:
+	> 306815
+Grade: 2 cow(s).
+
+Turn 543:
+	> 036815
+Grade: 3 cow(s).
+
+Turn 544:
+	> 836015
+Grade: 2 cow(s).
+
+Turn 545:
+	> 386015
+Grade: 2 cow(s).
+
+Turn 546:
+	> 683015
+Grade: 2 cow(s).
+
+Turn 547:
+	> 863015
+Grade: 3 cow(s).
+
+Turn 548:
+	> 368015
+Grade: 4 cow(s).
+
+Turn 549:
+	> 638015
+Grade: 3 cow(s).
+
+Turn 550:
+	> 608315
+Grade: 4 cow(s).
+
+Turn 551:
+	> 068315
+Grade: 6 bulls
+/Congratulations! You guessed the secret code.
+[1;31m
+Start test 4[0m
+&Input the length of the secret code:
+> 11
+3Input the number of possible symbols in the code:
+> 10
+[1;31m
+Start test 5[0m
+&Input the length of the secret code:
+> 4
+3Input the number of possible symbols in the code:
+> 16
+Okay, let's start a game!
+)The secret is prepared: **** (0-9,a-f).
+Turn 1:
+> 0000
+Grade: None. 
+Turn 2:
+> 1111
+Grade: None. 
+Turn 3:
+> 2222
+Grade: None. 
+Turn 4:
+> 3333
+Grade: None. 
+Turn 5:
+> 4444
+Grade: None. 
+Turn 6:
+> 5555
+Grade: None. 
+Turn 7:
+> 6666
+Grade: 1 bull(s) and 1 cow(s)
+Turn 8:
+> 7777
+Grade: None. 
+Turn 9:
+> 8888
+Grade: None. 
+	Turn 10:
+> 9999
+Grade: None. 
+	Turn 11:
+> aaaa
+Grade: None. 
+	Turn 12:
+> bbbb
+Grade: 1 bull(s) and 1 cow(s)
+	Turn 13:
+> cccc
+Grade: None. 
+	Turn 14:
+> dddd
+Grade: 1 bull(s) and 1 cow(s)
+	Turn 15:
+> eeee
+Grade: 1 bull(s) and 1 cow(s)
+	Turn 16:
+> 6bde
+Grade: None. 
+	Turn 17:
+> b6de
+Grade: 1 cow(s).
+	Turn 18:
+> d6be
+Grade: 2 cow(s).
+	Turn 19:
+> 6dbe
+Grade: 1 cow(s).
+	Turn 20:
+> bd6e
+Grade: None. 
+	Turn 21:
+> db6e
+Grade: None. 
+	Turn 22:
+> eb6d
+Grade: 2 cow(s).
+	Turn 23:
+> be6d
+Grade: 1 cow(s).
+	Turn 24:
+> 6ebd
+Grade: 2 cow(s).
+	Turn 25:
+> e6bd
+Grade: 4 bulls
+/Congratulations! You guessed the secret code.
+[1;31m
+Start test 6[0m
+&Input the length of the secret code:
+> 6
+3Input the number of possible symbols in the code:
+> 36
+Okay, let's start a game!
++The secret is prepared: ****** (0-9,a-z).
+Turn 1:
+	> 000000
+Grade: None. 
+Turn 2:
+	> 111111
+Grade: None. 
+Turn 3:
+	> 222222
+Grade: 1 bull(s) and 1 cow(s)
+Turn 4:
+	> 333333
+Grade: None. 
+Turn 5:
+	> 444444
+Grade: None. 
+Turn 6:
+	> 555555
+Grade: 1 bull(s) and 1 cow(s)
+Turn 7:
+	> 666666
+Grade: None. 
+Turn 8:
+	> 777777
+Grade: None. 
+Turn 9:
+	> 888888
+Grade: 1 bull(s) and 1 cow(s)
+	Turn 10:
+	> 999999
+Grade: None. 
+	Turn 11:
+	> aaaaaa
+Grade: 1 bull(s) and 1 cow(s)
+	Turn 12:
+	> bbbbbb
+Grade: None. 
+	Turn 13:
+	> cccccc
+Grade: None. 
+	Turn 14:
+	> dddddd
+Grade: 1 bull(s) and 1 cow(s)
+	Turn 15:
+	> eeeeee
+Grade: None. 
+	Turn 16:
+	> ffffff
+Grade: None. 
+	Turn 17:
+	> gggggg
+Grade: None. 
+	Turn 18:
+	> hhhhhh
+Grade: None. 
+	Turn 19:
+	> iiiiii
+Grade: None. 
+	Turn 20:
+	> jjjjjj
+Grade: None. 
+	Turn 21:
+	> kkkkkk
+Grade: None. 
+	Turn 22:
+	> llllll
+Grade: None. 
+	Turn 23:
+	> mmmmmm
+Grade: None. 
+	Turn 24:
+	> nnnnnn
+Grade: None. 
+	Turn 25:
+	> oooooo
+Grade: None. 
+	Turn 26:
+	> pppppp
+Grade: None. 
+	Turn 27:
+	> qqqqqq
+Grade: None. 
+	Turn 28:
+	> rrrrrr
+Grade: 1 bull(s) and 1 cow(s)
+	Turn 29:
+	> 258adr
+Grade: None. 
+	Turn 30:
+	> 528adr
+Grade: 1 cow(s).
+	Turn 31:
+	> 825adr
+Grade: None. 
+	Turn 32:
+	> 285adr
+Grade: None. 
+	Turn 33:
+	> 582adr
+Grade: 1 cow(s).
+	Turn 34:
+	> 852adr
+Grade: None. 
+	Turn 35:
+	> a528dr
+Grade: 1 cow(s).
+	Turn 36:
+	> 5a28dr
+Grade: 2 cow(s).
+	Turn 37:
+	> 2a58dr
+Grade: 1 cow(s).
+	Turn 38:
+	> a258dr
+Grade: 1 cow(s).
+	Turn 39:
+	> 52a8dr
+Grade: 3 cow(s).
+	Turn 40:
+	> 25a8dr
+Grade: 2 cow(s).
+	Turn 41:
+	> 28a5dr
+Grade: 1 cow(s).
+	Turn 42:
+	> 82a5dr
+Grade: 1 cow(s).
+	Turn 43:
+	> a285dr
+Grade: None. 
+	Turn 44:
+	> 2a85dr
+Grade: None. 
+	Turn 45:
+	> 8a25dr
+Grade: None. 
+	Turn 46:
+	> a825dr
+Grade: None. 
+	Turn 47:
+	> a852dr
+Grade: None. 
+	Turn 48:
+	> 8a52dr
+Grade: None. 
+	Turn 49:
+	> 5a82dr
+Grade: 1 cow(s).
+	Turn 50:
+	> a582dr
+Grade: None. 
+	Turn 51:
+	> 85a2dr
+Grade: 1 cow(s).
+	Turn 52:
+	> 58a2dr
+Grade: 2 cow(s).
+	Turn 53:
+	> d8a25r
+Grade: 1 cow(s).
+	Turn 54:
+	> 8da25r
+Grade: 1 cow(s).
+	Turn 55:
+	> ad825r
+Grade: None. 
+	Turn 56:
+	> da825r
+Grade: None. 
+	Turn 57:
+	> 8ad25r
+Grade: None. 
+	Turn 58:
+	> a8d25r
+Grade: None. 
+	Turn 59:
+	> 28da5r
+Grade: None. 
+	Turn 60:
+	> 82da5r
+Grade: None. 
+	Turn 61:
+	> d28a5r
+Grade: None. 
+	Turn 62:
+	> 2d8a5r
+Grade: None. 
+	Turn 63:
+	> 8d2a5r
+Grade: None. 
+	Turn 64:
+	> d82a5r
+Grade: None. 
+	Turn 65:
+	> da285r
+Grade: 1 cow(s).
+	Turn 66:
+	> ad285r
+Grade: 1 cow(s).
+	Turn 67:
+	> 2da85r
+Grade: 2 cow(s).
+	Turn 68:
+	> d2a85r
+Grade: 2 cow(s).
+	Turn 69:
+	> a2d85r
+Grade: 1 cow(s).
+	Turn 70:
+	> 2ad85r
+Grade: 1 cow(s).
+	Turn 71:
+	> 2a8d5r
+Grade: None. 
+	Turn 72:
+	> a28d5r
+Grade: None. 
+	Turn 73:
+	> 82ad5r
+Grade: 1 cow(s).
+	Turn 74:
+	> 28ad5r
+Grade: 1 cow(s).
+	Turn 75:
+	> a82d5r
+Grade: None. 
+	Turn 76:
+	> 8a2d5r
+Grade: None. 
+	Turn 77:
+	> 5a2d8r
+Grade: 1 cow(s).
+	Turn 78:
+	> a52d8r
+Grade: None. 
+	Turn 79:
+	> 25ad8r
+Grade: 1 cow(s).
+	Turn 80:
+	> 52ad8r
+Grade: 2 cow(s).
+	Turn 81:
+	> a25d8r
+Grade: None. 
+	Turn 82:
+	> 2a5d8r
+Grade: None. 
+	Turn 83:
+	> da528r
+Grade: None. 
+	Turn 84:
+	> ad528r
+Grade: None. 
+	Turn 85:
+	> 5da28r
+Grade: 2 cow(s).
+	Turn 86:
+	> d5a28r
+Grade: 1 cow(s).
+	Turn 87:
+	> a5d28r
+Grade: None. 
+	Turn 88:
+	> 5ad28r
+Grade: 1 cow(s).
+	Turn 89:
+	> 52da8r
+Grade: 1 cow(s).
+	Turn 90:
+	> 25da8r
+Grade: None. 
+	Turn 91:
+	> d52a8r
+Grade: None. 
+	Turn 92:
+	> 5d2a8r
+Grade: 1 cow(s).
+	Turn 93:
+	> 2d5a8r
+Grade: None. 
+	Turn 94:
+	> d25a8r
+Grade: None. 
+	Turn 95:
+	> d2a58r
+Grade: 1 cow(s).
+	Turn 96:
+	> 2da58r
+Grade: 1 cow(s).
+	Turn 97:
+	> ad258r
+Grade: None. 
+	Turn 98:
+	> da258r
+Grade: None. 
+	Turn 99:
+	> 2ad58r
+Grade: None. 
+
+Turn 100:
+	> a2d58r
+Grade: None. 
+
+Turn 101:
+	> 82d5ar
+Grade: None. 
+
+Turn 102:
+	> 28d5ar
+Grade: None. 
+
+Turn 103:
+	> d825ar
+Grade: None. 
+
+Turn 104:
+	> 8d25ar
+Grade: None. 
+
+Turn 105:
+	> 2d85ar
+Grade: None. 
+
+Turn 106:
+	> d285ar
+Grade: None. 
+
+Turn 107:
+	> 528dar
+Grade: 1 cow(s).
+
+Turn 108:
+	> 258dar
+Grade: None. 
+
+Turn 109:
+	> 852dar
+Grade: None. 
+
+Turn 110:
+	> 582dar
+Grade: 1 cow(s).
+
+Turn 111:
+	> 285dar
+Grade: None. 
+
+Turn 112:
+	> 825dar
+Grade: None. 
+
+Turn 113:
+	> 8d52ar
+Grade: None. 
+
+Turn 114:
+	> d852ar
+Grade: None. 
+
+Turn 115:
+	> 58d2ar
+Grade: 1 cow(s).
+
+Turn 116:
+	> 85d2ar
+Grade: None. 
+
+Turn 117:
+	> d582ar
+Grade: None. 
+
+Turn 118:
+	> 5d82ar
+Grade: 1 cow(s).
+
+Turn 119:
+	> 5d28ar
+Grade: 2 cow(s).
+
+Turn 120:
+	> d528ar
+Grade: 1 cow(s).
+
+Turn 121:
+	> 25d8ar
+Grade: 1 cow(s).
+
+Turn 122:
+	> 52d8ar
+Grade: 2 cow(s).
+
+Turn 123:
+	> d258ar
+Grade: 1 cow(s).
+
+Turn 124:
+	> 2d58ar
+Grade: 1 cow(s).
+
+Turn 125:
+	> ad582r
+Grade: 2 cow(s).
+
+Turn 126:
+	> da582r
+Grade: 2 cow(s).
+
+Turn 127:
+	> 5ad82r
+Grade: 3 cow(s).
+
+Turn 128:
+	> a5d82r
+Grade: 2 cow(s).
+
+Turn 129:
+	> d5a82r
+Grade: 3 cow(s).
+
+Turn 130:
+	> 5da82r
+Grade: 4 cow(s).
+
+Turn 131:
+	> 8da52r
+Grade: 2 cow(s).
+
+Turn 132:
+	> d8a52r
+Grade: 2 cow(s).
+
+Turn 133:
+	> a8d52r
+Grade: 1 cow(s).
+
+Turn 134:
+	> 8ad52r
+Grade: 1 cow(s).
+
+Turn 135:
+	> da852r
+Grade: 1 cow(s).
+
+Turn 136:
+	> ad852r
+Grade: 1 cow(s).
+
+Turn 137:
+	> a58d2r
+Grade: 1 cow(s).
+
+Turn 138:
+	> 5a8d2r
+Grade: 2 cow(s).
+
+Turn 139:
+	> 8a5d2r
+Grade: 1 cow(s).
+
+Turn 140:
+	> a85d2r
+Grade: 1 cow(s).
+
+Turn 141:
+	> 58ad2r
+Grade: 3 cow(s).
+
+Turn 142:
+	> 85ad2r
+Grade: 2 cow(s).
+
+Turn 143:
+	> 85da2r
+Grade: 1 cow(s).
+
+Turn 144:
+	> 58da2r
+Grade: 2 cow(s).
+
+Turn 145:
+	> d85a2r
+Grade: 1 cow(s).
+
+Turn 146:
+	> 8d5a2r
+Grade: 1 cow(s).
+
+Turn 147:
+	> 5d8a2r
+Grade: 2 cow(s).
+
+Turn 148:
+	> d58a2r
+Grade: 1 cow(s).
+
+Turn 149:
+	> r58a2d
+Grade: 2 cow(s).
+
+Turn 150:
+	> 5r8a2d
+Grade: 4 cow(s).
+
+Turn 151:
+	> 8r5a2d
+Grade: 3 cow(s).
+
+Turn 152:
+	> r85a2d
+Grade: 2 cow(s).
+
+Turn 153:
+	> 58ra2d
+Grade: 3 cow(s).
+
+Turn 154:
+	> 85ra2d
+Grade: 2 cow(s).
+
+Turn 155:
+	> a5r82d
+Grade: 3 cow(s).
+
+Turn 156:
+	> 5ar82d
+Grade: 4 cow(s).
+
+Turn 157:
+	> ra582d
+Grade: 3 cow(s).
+
+Turn 158:
+	> ar582d
+Grade: 4 cow(s).
+
+Turn 159:
+	> 5ra82d
+Grade: 6 bulls
+/Congratulations! You guessed the secret code.
+[1;31m
+Start test 7[0m
+&Input the length of the secret code:
+> 0
+Error: zero
+[1;31m
+Start test 8[0m
+&Input the length of the secret code:
+> 10
+3Input the number of possible symbols in the code:
+> 9
+[1;31m
+Start test 9[0m
+&Input the length of the secret code:
+> 9
+3Input the number of possible symbols in the code:
+> 37
+IError: maximum number of possible symbols in the code is 36 (0-9, a-z).
+[1;31m
+Start test 10[0m
+&Input the length of the secret code:
+> abcdefg 1 -6
+,Error: "abcdefg 1 -6" isn't a valid number.
